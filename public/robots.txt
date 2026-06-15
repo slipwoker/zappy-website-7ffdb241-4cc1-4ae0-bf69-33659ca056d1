@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://crumb-7ffdb241.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
