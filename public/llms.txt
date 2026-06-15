@@ -1,0 +1,107 @@
+# Crumb — Generative Engine Optimization Map
+
+> A homemade cookie business based in Charlotte, North Carolina, offering a warm and personal baking experience. The business caters to a variety of needs — from single cookie purchases to beautifully curated cookie boxes, fully customized cookie designs, and large-scale orders for events and celebrations. The brand carries a cozy, artisan feel rooted in handcrafted quality and local community.
+
+---
+
+## Pages
+
+### Home
+https://crumb-7ffdb241.zappy5.app
+Discover Crumb in Charlotte—where every cookie is a warm, handcrafted experience. From single treats to stunning crumbl cookie boxes, we bake joy for any moment. Order your box today.
+
+### Services
+https://crumb-7ffdb241.zappy5.app/services
+Create your perfect crumbl cookie party box or design fully customized cookies for birthdays, weddings, and celebrations. Explore our services and let&#39;s bake something unforgettable together.
+
+### About
+https://crumb-7ffdb241.zappy5.app/about
+Learn the story of Crumb, a Charlotte-based homemade cookie business built on handcrafted quality and community warmth. See why every batch feels like coming home.
+
+### Contact
+https://crumb-7ffdb241.zappy5.app/contact
+Ready for crumbl cookie boxes, custom designs, or a party tray that steals the show? Reach out to Crumb in Charlotte and let&#39;s bring your sweet vision to life.
+
+### Products
+https://crumb-7ffdb241.zappy5.app/products
+Our Products - Crumb
+
+### Cart
+https://crumb-7ffdb241.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://crumb-7ffdb241.zappy5.app/checkout
+Checkout
+
+### Login
+https://crumb-7ffdb241.zappy5.app/login
+Customer Login
+
+### Account
+https://crumb-7ffdb241.zappy5.app/account
+My Account
+
+### Order Success
+https://crumb-7ffdb241.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://crumb-7ffdb241.zappy5.app/product/:slug
+Product Details - Crumb
+
+### Category
+https://crumb-7ffdb241.zappy5.app/category/:slug
+Products - Crumb
+
+## Legal & Policy
+
+### Privacy Policy
+https://crumb-7ffdb241.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://crumb-7ffdb241.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://crumb-7ffdb241.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Crumb
+A homemade cookie business based in Charlotte, North Carolina, offering a warm and personal baking experience. The business caters to a variety of needs — from single cookie purchases to beautifully curated cookie boxes, fully customized cookie designs, and large-scale orders for events and celebrations. The brand carries a cozy, artisan feel rooted in handcrafted quality and local community.
+
+## Services/Products
+- Individual cookies
+- Cookie boxes
+- Custom cookies
+- Large orders for events
+
+## Target Audience
+- Cookie Enthusiasts
+- Event Planners
+- Gift Shoppers
+- Cookie lovers
+
+## Industry
+Food & Bakery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://crumb-7ffdb241.zappy5.app/sitemap.xml
+- Robots: https://crumb-7ffdb241.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://crumb-7ffdb241.zappy5.app/llms-full.txt
+- Products (JSON): https://crumb-7ffdb241.zappy5.app/products.json
+- Products (Google Merchant RSS): https://crumb-7ffdb241.zappy5.app/product-feed.xml
