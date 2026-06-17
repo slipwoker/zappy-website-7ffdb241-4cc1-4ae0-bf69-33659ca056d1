@@ -363,7 +363,7 @@
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "7ffdb241-4cc1-4ae0-bf69-33659ca056d1";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">Skip to main content</a>
+<script>window.ZAPPY_WEBSITE_ID = "7ffdb241-4cc1-4ae0-bf69-33659ca056d1";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">Skip to main content</a>
   <nav class="navbar">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -857,12 +857,12 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim" id="home-hero-section" style="margin-top: -70px !important; padding-top: 70px !important; min-height: 807.286px !important;" data-zappy-bg-type="image" data-zappy-bg-color="" data-zappy-bg-image="assets/site-home-hero-image-1.webp" data-zappy-bg-overlay-color="#1a0e08" data-zappy-bg-overlay-opacity="33" data-zappy-bg-video-type="" data-zappy-bg-video-url="">
   <!-- Background Image -->
-  <img loading="eager" fetchpriority="high" data-hero-bg="true" class="home-hero-section__bg-image" data-placeholder="home-hero-image-1" data-context="A warm, celebratory cookie tablescape in natural light. An overhead flat-lay shot of artisan homemade cookies scattered on a rustic wooden table with scattered flour dust, baking ingredients, and soft golden sunlight casting warm highlights. The scene feels cozy, handcrafted, and inviting with a Charlotte, North Carolina local bakery charm." width="1200" height="600" src="/assets/site-home-hero-image-1.webp" alt="Homemade artisan cookie tablescape with warm natural light">
+  <img loading="eager" fetchpriority="high" data-hero-bg="true" class="home-hero-section__bg-image" data-placeholder="home-hero-image-1" data-context="A warm, celebratory cookie tablescape in natural light. An overhead flat-lay shot of artisan homemade cookies scattered on a rustic wooden table with scattered flour dust, baking ingredients, and soft golden sunlight casting warm highlights. The scene feels cozy, handcrafted, and inviting with a Charlotte, North Carolina local bakery charm." width="1200" height="600" src="/assets/site-home-hero-image-1.webp" alt="Homemade artisan cookie tablescape with warm natural light" data-hero-background="true" data-element-type="image" data-element-id="img-1781684325671-avixieper">
 
   <!-- Scrim Overlay for Text Legibility -->
-  <div class="home-hero-section__scrim" aria-hidden="true"></div>
+  <div class="home-hero-section__scrim" aria-hidden="true" style="opacity: 0.44"></div>
 
   <!-- Flour Dust Decorative Motif -->
   <div class="home-hero-section__flour-dust" aria-hidden="true">
@@ -893,10 +893,10 @@
 
   <!-- Text Overlay Group -->
   <div class="home-hero-section__overlay">
-    <h1 class="home-hero-section__headline">Crumb — Homemade Cookies from Charlotte, NC</h1>
+    <h1 class="home-hero-section__headline" style="">Homemade Cookies from Charlotte, NC</h1>
     <h3 class="home-hero-section__subtitle">From single cookies to curated boxes, custom designs, and large event orders — every batch is baked with warmth and handcrafted care.</h3>
     <div class="home-hero-section__ctas">
-      <a href="/contact" class="home-hero-section__cta home-hero-section__cta--primary">Inquire About Custom &amp; Event Orders</a>
+      <a href="/contact" class="home-hero-section__cta home-hero-section__cta--primary" style="color: rgb(0, 0, 0) !important;">Inquire About Custom &amp; Event Orders</a>
       <a href="/services" class="home-hero-section__cta home-hero-section__cta--secondary">Explore Our Offerings</a>
     </div>
   </div>
