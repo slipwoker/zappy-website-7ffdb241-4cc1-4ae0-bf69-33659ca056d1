@@ -4,6 +4,18 @@
     <title>Crumb</title>
     <link>https://example.com</link>
     <description>Product feed for Crumb</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:16:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:20:04 GMT</lastBuildDate>
+    <item>
+      <g:id>84de0a93-bdbc-4c5a-8d31-b2d0558b6700</g:id>
+      <g:title>מוצר לדוגמא </g:title>
+      <g:description>מוצר לדוגמא</g:description>
+      <g:link>https://example.com/product/mvtsr-ldvgma-52exsu</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>100.00 USD</g:price>
+      <g:sale_price>80.00 USD</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>Crumb</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

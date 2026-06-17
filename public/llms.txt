@@ -72,7 +72,12 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### מוצר לדוגמא 
+https://example.com/product/mvtsr-ldvgma-52exsu
+- Price: 80.00 USD (sale, was 100.00 USD)
+- Availability: In stock
 
 ---
 

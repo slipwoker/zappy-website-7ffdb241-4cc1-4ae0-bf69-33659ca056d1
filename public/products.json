@@ -1,8 +1,29 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T12:16:58.344Z",
+  "generated_at": "2026-06-17T08:20:04.638Z",
   "base_url": "https://example.com",
   "currency": "USD",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "84de0a93-bdbc-4c5a-8d31-b2d0558b6700",
+      "slug": "mvtsr-ldvgma-52exsu",
+      "name": "מוצר לדוגמא ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 80,
+      "base_price": 100,
+      "sale_price": 80,
+      "currency": "USD",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mvtsr-ldvgma-52exsu",
+      "categories": [],
+      "updated_at": "2026-06-16T10:15:30.479Z"
+    }
+  ]
 }
