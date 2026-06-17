@@ -74,10 +74,11 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 1**
 
-### מוצר לדוגמא 
-https://example.com/product/mvtsr-ldvgma-52exsu
+### Cookie box - Bundle
+https://example.com/product/cookie-box-bundle-08rh3n
 - Price: 80.00 USD (sale, was 100.00 USD)
 - Availability: In stock
+- Image: https://example.com/assets/image-product-image-1781687345003-473c3d.webp
 
 ---
 
