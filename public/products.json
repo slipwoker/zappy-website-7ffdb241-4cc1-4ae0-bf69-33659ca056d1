@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-17T11:53:38.976Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-06-17T11:53:56.920Z",
+  "base_url": "https://crumb.zappy5.app",
   "currency": "USD",
   "count": 1,
   "products": [
@@ -19,11 +19,11 @@
       "sale_price": 80,
       "currency": "USD",
       "images": [
-        "https://example.com/assets/image-product-image-1781687345003-473c3d.webp"
+        "https://crumb.zappy5.app/assets/image-product-image-1781687345003-473c3d.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/cookie-box-bundle-08rh3n",
+      "url": "https://crumb.zappy5.app/product/cookie-box-bundle-08rh3n",
       "categories": [],
       "updated_at": "2026-06-17T09:09:15.485Z"
     }
