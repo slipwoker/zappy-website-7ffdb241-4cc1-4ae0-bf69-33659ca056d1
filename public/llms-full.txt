@@ -56,8 +56,6 @@ Handcrafted Cookie Boxes & Warm Homemade Treats — Crumb
 
 
 
-
-
 Skip to main content
 
 
@@ -74,6 +72,9 @@ Skip to main content
 
 
 - Products Products
+
+
+
 
 
 
@@ -465,8 +466,6 @@ Custom Cookie Boxes, Party Trays & Event Orders — Crumb
 
 
 
-
-
 Skip to main content
 
 
@@ -483,6 +482,9 @@ Skip to main content
 
 
 - Products Products
+
+
+
 
 
 
@@ -1001,8 +1003,6 @@ Meet the Hands Behind Our Cozy, Artisan Bakery — Crumb
 
 
 
-
-
 Skip to main content
 
 
@@ -1019,6 +1019,9 @@ Skip to main content
 
 
 - Products Products
+
+
+
 
 
 
@@ -1355,8 +1358,6 @@ Start Your Custom Cookie Order or Say Hello — Crumb
 
 
 
-
-
 Skip to main content
 
 
@@ -1373,6 +1374,9 @@ Skip to main content
 
 
 - Products Products
+
+
+
 
 
 
@@ -1789,6 +1793,9 @@ Products - Crumb
 
 
 
+
+
+
 - Home
 - Services
 - About
@@ -2030,6 +2037,9 @@ Cart - Crumb
 
 
 
+
+
+
 - Home
 - Services
 - About
@@ -2243,6 +2253,9 @@ Checkout - Crumb
 
 
 - Products Products
+
+
+
 
 
 
@@ -2650,6 +2663,9 @@ Login - Crumb
 
 
 
+
+
+
 - Home
 - Services
 - About
@@ -2870,6 +2886,9 @@ My Account - Crumb
 
 
 - Products Products
+
+
+
 
 
 
@@ -3253,6 +3272,9 @@ Order Received! - Crumb
 
 
 
+
+
+
 - Home
 - Services
 - About
@@ -3494,6 +3516,9 @@ Return Policy - Crumb
 
 
 
+
+
+
 - Home
 - Services
 - About
@@ -3525,7 +3550,7 @@ Products
 # Return Policy
 
 
-Last Updated: 6/15/2026
+Last Updated: 6/24/2026
 
 
 
@@ -3764,6 +3789,9 @@ Product Details - Crumb
 
 
 
+
+
+
 - Home
 - Services
 - About
@@ -3983,6 +4011,9 @@ Products - Crumb
 
 
 
+
+
+
 - Home
 - Services
 - About
@@ -4186,7 +4217,25 @@ Privacy Policy
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Products Products
+
+
+
 
 
 
@@ -4199,6 +4248,16 @@ Privacy Policy
 
 
 
+
+
+
+
+
+
+
+
+
+Products
 
 
 
@@ -4447,7 +4506,25 @@ Accessibility Statement
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Products Products
+
+
+
 
 
 
@@ -4460,6 +4537,16 @@ Accessibility Statement
 
 
 
+
+
+
+
+
+
+
+
+
+Products
 
 
 
@@ -4714,7 +4801,25 @@ Terms & Conditions
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Products Products
+
+
+
 
 
 
@@ -4727,6 +4832,16 @@ Terms & Conditions
 
 
 
+
+
+
+
+
+
+
+
+
+Products
 
 
 
