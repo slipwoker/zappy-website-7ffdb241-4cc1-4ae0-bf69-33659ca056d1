@@ -75,7 +75,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### Cookie box - Bundle
-https://crumb.zappy5.app/product/cookie-box-bundle-dxx6or
+https://crumb.zappy5.app/product/cookie-box-bundle-9qxyrx
 - Price: 80.00 USD (sale, was 100.00 USD)
 - Availability: In stock
 - Image: https://crumb.zappy5.app/assets/image-product-image-1781687345003-473c3d.webp
