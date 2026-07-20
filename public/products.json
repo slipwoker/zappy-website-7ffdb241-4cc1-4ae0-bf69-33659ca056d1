@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-20T11:41:03.582Z",
+  "generated_at": "2026-07-20T11:42:03.724Z",
   "base_url": "https://crumb.zappy5.app",
   "currency": "USD",
   "count": 1,
   "products": [
     {
       "id": "84de0a93-bdbc-4c5a-8d31-b2d0558b6700",
-      "slug": "cookie-box-bundle-xuwwxf",
+      "slug": "cookie-box-bundle-sluxqh",
       "name": "Cookie box - Bundle",
       "name_translations": {},
       "description": "",
@@ -19,14 +19,14 @@
       "sale_price": 80,
       "currency": "USD",
       "images": [
-        "https://crumb.zappy5.app/assets/product-1784547611739-5smn3x.webp",
+        "https://crumb.zappy5.app/assets/product-enhanced-1784547674240-i5go1j.webp",
         "https://crumb.zappy5.app/assets/image-product-image-1781687345003-473c3d.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://crumb.zappy5.app/product/cookie-box-bundle-xuwwxf",
+      "url": "https://crumb.zappy5.app/product/cookie-box-bundle-sluxqh",
       "categories": [],
-      "updated_at": "2026-07-20T11:40:31.920Z"
+      "updated_at": "2026-07-20T11:41:31.527Z"
     }
   ]
 }
