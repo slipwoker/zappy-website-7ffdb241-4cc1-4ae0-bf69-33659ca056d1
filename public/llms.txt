@@ -6,21 +6,17 @@
 
 ## Pages
 
-### Home
+### Handcrafted Cookie Boxes &amp; Warm Homemade Treats — Crumb
 https://crumb.zappy5.app
 Discover Crumb in Charlotte—where every cookie is a warm, handcrafted experience. From single treats to stunning crumbl cookie boxes, we bake joy for any moment. Order your box today.
 
-### Services
-https://crumb.zappy5.app/services
-Create your perfect crumbl cookie party box or design fully customized cookies for birthdays, weddings, and celebrations. Explore our services and let&#39;s bake something unforgettable together.
-
-### About
+### Meet the Hands Behind Our Cozy, Artisan Bakery — Crumb
 https://crumb.zappy5.app/about
 Learn the story of Crumb, a Charlotte-based homemade cookie business built on handcrafted quality and community warmth. See why every batch feels like coming home.
 
-### Contact
-https://crumb.zappy5.app/contact
-Ready for crumbl cookie boxes, custom designs, or a party tray that steals the show? Reach out to Crumb in Charlotte and let&#39;s bring your sweet vision to life.
+### Custom Cookie Boxes, Party Trays &amp; Event Orders — Crumb
+https://crumb.zappy5.app/services
+Create your perfect crumbl cookie party box or design fully customized cookies for birthdays, weddings, and celebrations. Explore our services and let&#39;s bake something unforgettable together.
 
 ### Products
 https://crumb.zappy5.app/products
@@ -38,21 +34,25 @@ Checkout
 https://crumb.zappy5.app/login
 Customer Login
 
-### Account
+### My Account
 https://crumb.zappy5.app/account
 My Account
 
-### Order Success
+### Order Received!
 https://crumb.zappy5.app/order-success
 Thank you for your order
 
-### Product Detail
+### Product Details
 https://crumb.zappy5.app/product/:slug
 Product Details - Crumb
 
-### Category
+### Products
 https://crumb.zappy5.app/category/:slug
 Products - Crumb
+
+### Start Your Custom Cookie Order or Say Hello — Crumb
+https://crumb.zappy5.app/contact
+Ready for crumbl cookie boxes, custom designs, or a party tray that steals the show? Reach out to Crumb in Charlotte and let&#39;s bring your sweet vision to life.
 
 ## Legal & Policy
 
